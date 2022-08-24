@@ -31,4 +31,7 @@ Show THREE BLUE finger to DOUBLE CLICK,
 
 MOVE the GREEN finger up and down to control the MOUSE SCROLL.
 
-
+# Requirement
+- Matlab software
+- Computer Vision Toolbox
+- Image Acquisition Toolbox
